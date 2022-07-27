@@ -54,7 +54,7 @@ KEYMAPS = {
 
 ORTHOGRAPHY_RULES = []
 
-DICTIONARIES_ROOT = 'asset:plover-toki-pona-jnl:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover_toki_pona_jnl:dictionaries'
 
 DEFAULT_DICTIONARIES = (
 	'kipisi_nimi.json', 'nimi_ku_suli.json', 'sitelen.json'
