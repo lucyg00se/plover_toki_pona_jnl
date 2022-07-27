@@ -34,12 +34,27 @@ KEYMAPS = {
 		'-W': 'p',
 		'arpeggiate': 'space',
 		'no-op': ('[','a','s','d','f','g','h','j','k','l',';','\'','z','x','c','b','m',',','.','/'),
+	},
+	'Gemini PR': {
+		'#': '*1',
+		'S-': 'S1-',
+		'T-': 'T-',
+		'M-': 'P-',
+		'L-': 'H-',
+		'A-': 'O-',
+		'*': '*2',
+		'-O': '-E',
+		'-L': '-F',
+		'-M': '-P',
+		'-N': '-L',
+		'-W': '-T',
+		'no-op': ('Fn', 'pwr', 'res1', 'res2','*1','*3','*4','#1', '#2', '#3', '#4', '#5', '#6', '#7', '#8', '#9', '#A', '#B', '#C','S2-','K-','W-','R-','A-','-U','-R','-B','-G','-S','-D','-Z'),
 	}
 }
 
 ORTHOGRAPHY_RULES = []
 
-DICTIONARIES_ROOT = 'asset:plover_toki_pona_jnl:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover-toki-pona-jnl:dictionaries'
 
 DEFAULT_DICTIONARIES = (
 	'kipisi_nimi.json', 'nimi_ku_suli.json', 'sitelen.json'
