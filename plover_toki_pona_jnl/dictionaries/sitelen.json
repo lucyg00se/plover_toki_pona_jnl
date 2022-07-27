@@ -7,9 +7,5 @@
 "TML*":"{^ ^}",
 "STM*MNW":"{^\n^}",
 "STM-MNW":"{#Return}{^}",
-"STML-L":"{#Left}{^}",
-"STML-M":"{#Up}{^}",
-"STML-N":"{#Right}{^}",
-"STML-W":"{#Down}{^}",
 "#":"=undo"
 }
