@@ -16,7 +16,7 @@ For example:
 
 original Toki Pona: ilo Senokapi li pona tawa mi a
 
-raw steno: -L SA*OL ML*O TMA* ST* L- STON TAW M- A
+raw steno: -L SA\*OL ML\*O TMA\* ST\* L- STON TAW M- A
 
 
 
