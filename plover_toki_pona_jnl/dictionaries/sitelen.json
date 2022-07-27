@@ -6,7 +6,7 @@
 "TML-LM":"{^:}",
 "TML*":"{^ ^}",
 "STM*MNW":"{^\n^}",
-"STM-MNW":"{#Return}",
+"STM-MNW":"{#Return}{^}",
 "STML-L":"{#Left}{^}",
 "STML-M":"{#Up}{^}",
 "STML-N":"{#Right}{^}",
