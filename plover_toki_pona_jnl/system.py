@@ -7,7 +7,7 @@ KEYS = (
 )
 
 IMPLICIT_HYPHEN_KEYS = (
-	'A-', '-O'
+	'A-', '-O', '*', '#'
 )
 
 NUMBER_KEY = None
