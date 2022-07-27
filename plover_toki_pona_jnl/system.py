@@ -54,13 +54,13 @@ KEYMAPS = {
 
 ORTHOGRAPHY_RULES = []
 
+ORTHOGRAPHY_RULES_ALIASES = {}
+
+ORTHOGRAPHY_WORDLIST = None
+
 DICTIONARIES_ROOT = 'asset:plover_toki_pona_jnl:dictionaries'
 
 DEFAULT_DICTIONARIES = (
 	'kipisi_nimi.json', 'nimi_ku_suli.json', 'sitelen.json'
 )
-
-ORTHOGRAPHY_RULES_ALIASES = {}
-
-ORTHOGRAPHY_WORDLIST = None
 
