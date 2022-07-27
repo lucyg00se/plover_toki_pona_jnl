@@ -1,0 +1,14 @@
+{
+"TPL-L":"{^.}",
+"TPL-M":"{^,}",
+"TPL-N":"{^?}",
+"TPL-W":"{^!}",
+"TPL-LM":"{^:}",
+"TPL*":"{^ ^}",
+"STP*MNW":"{^\n^}",
+"STP-MNW":"{#Return}",
+"STPL-L":"{#Left}{^}",
+"STPL-M":"{#Up}{^}",
+"STPL-N":"{#Right}{^}",
+"STPL-W":"{#Down}{^}",
+}
