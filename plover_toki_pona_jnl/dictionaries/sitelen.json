@@ -10,5 +10,6 @@
 "STML-L":"{#Left}{^}",
 "STML-M":"{#Up}{^}",
 "STML-N":"{#Right}{^}",
-"STML-W":"{#Down}{^}"
+"STML-W":"{#Down}{^}",
+"#":"=undo"
 }

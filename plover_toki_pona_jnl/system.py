@@ -14,9 +14,7 @@ NUMBER_KEY = None
 
 NUMBERS = {}
 
-UNDO_STROKE_STENO = (
-	'#', '*'
-)
+UNDO_STROKE_STENO = '*'
 
 SUFFIX_KEYS = ()
 
